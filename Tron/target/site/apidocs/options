@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/daryl/git/Tron1/Tron/showboard/target/classes;C:/Users/daryl/git/Tron1/Tron/contract/target/classes;C:/Users/daryl/git/Tron1/Tron/controller/target/classes;C:/Users/daryl/git/Tron1/Tron/model/target/classes;C:/Users/daryl/git/Tron1/Tron/view/target/classes;C:/Users/daryl/git/Tron1/Tron/main/target/classes;C:/Users/daryl/.m2/repository/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/daryl/git/Tron1/Tron/showboard/src/main/java;C:/Users/daryl/git/Tron1/Tron/showboard/target/generated-sources/annotations;C:/Users/daryl/git/Tron1/Tron/contract/src/main/java;C:/Users/daryl/git/Tron1/Tron/contract/target/generated-sources/annotations;C:/Users/daryl/git/Tron1/Tron/controller/src/main/java;C:/Users/daryl/git/Tron1/Tron/controller/target/generated-sources/annotations;C:/Users/daryl/git/Tron1/Tron/model/src/main/java;C:/Users/daryl/git/Tron1/Tron/model/target/generated-sources/annotations;C:/Users/daryl/git/Tron1/Tron/view/src/main/java;C:/Users/daryl/git/Tron1/Tron/view/target/generated-sources/annotations;C:/Users/daryl/git/Tron1/Tron/main/src/main/java;C:/Users/daryl/git/Tron1/Tron/main/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2019. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/daryl/git/Tron1/Tron/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lorann 0.0.1-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/daryl/git/Tron1/Tron/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'lorann 0.0.1-SNAPSHOT API'
